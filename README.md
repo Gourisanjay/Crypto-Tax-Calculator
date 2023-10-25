@@ -1,5 +1,7 @@
-![Screenshot2](https://github.com/Gourisanjay/abcd/assets/123082006/f0190fcb-2c7e-4c78-99df-f4a6c35471be)
-![Screenshot1](https://github.com/Gourisanjay/abcd/assets/123082006/8559895e-05a9-44f9-8d33-178df97bcc97)
+
+
+![Screenshot2](https://github.com/Gourisanjay/Crypto-Tax-Calculator/assets/123082006/a58909f9-3c52-40f7-983a-18b119608e28)
+![Screenshot1](https://github.com/Gourisanjay/Crypto-Tax-Calculator/assets/123082006/aeaf557f-9a48-40bd-9a7c-f1716d71a769)
 
 # Getting Started with Create React App
 
